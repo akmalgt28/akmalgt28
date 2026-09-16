@@ -28,11 +28,11 @@
 <a href="https://github.com/akmalgt28">
   <img src="https://img.shields.io/badge/GitHub-akmalgt28-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=FF2A2A" alt="GitHub" />
 </a>
-<a href="https://instagram.com/akmalgt28">
-  <img src="https://img.shields.io/badge/Instagram-akmalgt28-0d1117?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117&color=005BFF" alt="Instagram" />
+<a href="https://instagram.com/akml_ghifar28">
+  <img src="https://img.shields.io/badge/Instagram-akml_ghifar28-0d1117?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117&color=005BFF" alt="Instagram" />
 </a>
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-your--email@example.com-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=FF2A2A" alt="Email" />
+<a href="mailto:mamalnaresh@gmail.com">
+  <img src="https://img.shields.io/badge/mamalnaresh@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=FF2A2A" alt="Email" />
 </a>
 
 </div>
